@@ -1,4 +1,4 @@
-=== Gravity Forms Data Population ===
+=== Gravity Forms Multi-Page Notifications ===
 Contributors: travislopes
 Tags: gravity forms, multiple pages, multipage, notifications, email, lead tracking
 Requires at least: 4.2.0
